@@ -1,0 +1,10 @@
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\bin\Debug\TimUCLN-BCNN.exe.config
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\bin\Debug\TimUCLN-BCNN.exe
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\bin\Debug\TimUCLN-BCNN.pdb
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN-BCNN.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN_BCNN.Form1.resources
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN_BCNN.Properties.Resources.resources
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN-BCNN.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN-BCNN.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN-BCNN.exe
+C:\Users\Nhat Bao\source\repos\TimUCLN-BCNN\TimUCLN-BCNN\obj\Debug\TimUCLN-BCNN.pdb

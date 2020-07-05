@@ -1,0 +1,10 @@
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\bin\Debug\Bai5_PhuongTrinhBacHai.exe.config
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\bin\Debug\Bai5_PhuongTrinhBacHai.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\bin\Debug\Bai5_PhuongTrinhBacHai.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.Form1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.Properties.Resources.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai5_PhuongTrinhBacHai\Bai5_PhuongTrinhBacHai\obj\Debug\Bai5_PhuongTrinhBacHai.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\bin\Debug\label-2.exe.config
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\bin\Debug\label-2.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\bin\Debug\label-2.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label-2.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label_2.Form1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label_2.Properties.Resources.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label-2.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label-2.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label-2.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label-2.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label_2.anh1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\label-2\label-2\obj\Debug\label_2.anh2.resources

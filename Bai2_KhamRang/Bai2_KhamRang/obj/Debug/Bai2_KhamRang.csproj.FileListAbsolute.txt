@@ -1,0 +1,11 @@
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\bin\Debug\Bai2_KhamRang.exe.config
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\bin\Debug\Bai2_KhamRang.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\bin\Debug\Bai2_KhamRang.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.Form1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.Properties.Resources.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai2_KhamRang\Bai2_KhamRang\obj\Debug\Bai2_KhamRang.Form3.resources

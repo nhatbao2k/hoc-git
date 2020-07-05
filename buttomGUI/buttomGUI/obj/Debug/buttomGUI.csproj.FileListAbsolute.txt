@@ -1,0 +1,10 @@
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\bin\Debug\buttomGUI.exe.config
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\bin\Debug\buttomGUI.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\bin\Debug\buttomGUI.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.Form1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.Properties.Resources.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\buttomGUI\buttomGUI\obj\Debug\buttomGUI.pdb

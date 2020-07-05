@@ -1,0 +1,12 @@
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\bin\Debug\1-Label.exe.config
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\bin\Debug\1-Label.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\bin\Debug\1-Label.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\1-Label.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\_1_Label.Form1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\_1_Label.Properties.Resources.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\1-Label.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\1-Label.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\1-Label.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\1-Label.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\_1_Label.Form2.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\1-Label\1-Label\obj\Debug\_1_Label.Form3.resources

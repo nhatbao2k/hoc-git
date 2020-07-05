@@ -1,0 +1,20 @@
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\bin\Debug\Bai4_DSSV.exe.config
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\bin\Debug\Bai4_DSSV.exe
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\bin\Debug\Bai4_DSSV.pdb
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.Form1.resources
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.Properties.Resources.resources
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.exe
+C:\Users\Nhat Bao\source\repos\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\bin\Debug\Bai4_DSSV.exe.config
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\bin\Debug\Bai4_DSSV.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\bin\Debug\Bai4_DSSV.pdb
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.csprojAssemblyReference.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.Form1.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.Properties.Resources.resources
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.csproj.GenerateResource.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.exe
+C:\Users\Nhat Bao\OneDrive - Thuyloi University\Tài liệu\C#\Tự học\Bai4_DSSV\Bai4_DSSV\obj\Debug\Bai4_DSSV.pdb
